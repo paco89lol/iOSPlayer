@@ -1,0 +1,6 @@
+framework module Pods_CustomePlayer {
+  umbrella header "Pods-CustomePlayer-umbrella.h"
+
+  export *
+  module * { export * }
+}
